@@ -1,0 +1,9 @@
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\bin\Debug\Final Project Tax Application.exe.config
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\bin\Debug\Final Project Tax Application.exe
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\bin\Debug\Final Project Tax Application.pdb
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final Project Tax Application.csprojResolveAssemblyReference.cache
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final_Project_Tax_Application.Properties.Resources.resources
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final Project Tax Application.csproj.GenerateResource.Cache
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final Project Tax Application.exe
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final Project Tax Application.pdb
+c:\users\justin smith\documents\visual studio 2015\Projects\Final Project Tax Application\Final Project Tax Application\obj\Debug\Final_Project_Tax_Application.frmMain.resources
